@@ -5,12 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>เกี่ยวกับเรา</title>
+    <link rel="stylesheet" href="./script/style.css" />
 </head>
-<body>
+<body class="bgimg">
     <h1>เกี่ยวกับเรา</h1>
-    <a href="index.html"> home </a>
-    <a href="about.html"> เกี่ยวกับเรา </a>
-    <a href="contact.html"> ติดต่อเรา </a>
+    
+    <?php
+        include "navbar.php";
+    ?>
+    
     <br />
     <img src="./images/มา.jpg" />
     <img src="./images/ก่อน.jpg" />

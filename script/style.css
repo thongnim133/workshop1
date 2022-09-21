@@ -1,0 +1,70 @@
+h1{
+    color: red;
+}
+
+a{
+color: #ff00ff ;
+font-size: 20px;
+
+}
+
+a:hover{
+    color: #ff0000 ;
+
+
+}
+
+.abc{
+    color: #ff00ff ;
+    text-shadow: 2px 3px red;
+}
+
+.bg{
+    background-color: #99ccff;
+
+}
+
+.bgimg{
+    background-image: url("../images/มา.jpg");
+    background-repeat: repeat-x;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #0d0d00;
+    opacity: 0.7;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #9933ff;
+
+  }
+  
+  .bg-white{
+    background-color: #a19f9f; 
+  }
+  
+.border{
+  border: 1px dashed rgb(0, 145, 255);
+  border: 21px dashed red;
+  color: #31049b;
+  padding: 50px 10px
+
+}
+
