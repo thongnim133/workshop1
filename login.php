@@ -11,5 +11,15 @@
 <?php
     include "navbar.php";
 ?>
+<h1> login </h1>
+
+<form>
+    Email :
+    <input type="text" name="email" /> <br />
+    password :
+    <input type="password" name="password" /> <br />
+    <input type="submit" value="เข้าสู่ระบบ" />
+</form>
+
 </body>
 </html>
